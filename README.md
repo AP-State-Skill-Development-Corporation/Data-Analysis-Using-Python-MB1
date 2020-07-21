@@ -24,3 +24,11 @@ This repository consists of all the files discussed during Data Analysis using P
 [Day1_Recorded_Video](https://drive.google.com/file/d/1cdFwUUyBRnxNAMKXwAhUxMwkcygn6CpA/view?usp=sharing)
 
 ************************
+## Day-2 21-July-2020
+
+### Topics Covered
+1. Different dimensional arrays creation.
+2. Applying Math and Stastical methods to arrays
+3. Reshaping and accessing arrays.
+
+[Day2 Recorded Video](https://drive.google.com/drive/folders/1kgq-JDkVzcBKm9gaGX9L7SZbLliBCYhK?zx=x4mqnqey2dqx)
