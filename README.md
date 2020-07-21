@@ -3,7 +3,9 @@ This repository consists of all the files discussed during Data Analysis using P
 
 #### Onine Training Meeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/729155261), or GoToMeeting ID → **`729155261`**
 
-#### All days Recorded Video [Gdrive Link](https://drive.google.com/drive/folders/1kgq-JDkVzcBKm9gaGX9L7SZbLliBCYhK?usp=sharing)
+#### All days Recorded Video → [Gdrive Link](https://drive.google.com/drive/folders/1kgq-JDkVzcBKm9gaGX9L7SZbLliBCYhK?usp=sharing)
+
+#### Verify Your details if your details not avaliable update in the last column if any modifications update in modifications column same will be replicated on your certificate → [[GSheet]](https://docs.google.com/spreadsheets/d/1o5QJLWUedwDqr4OFkAZ2MVr7aEMi6_ll2eSeS5v9QT8/edit?usp=sharing)
 
 ********************
 
