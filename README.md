@@ -31,4 +31,4 @@ This repository consists of all the files discussed during Data Analysis using P
 2. Applying Math and Stastical methods to arrays
 3. Reshaping and accessing arrays.
 
-[Day2 Recorded Video](https://drive.google.com/drive/folders/1kgq-JDkVzcBKm9gaGX9L7SZbLliBCYhK?zx=x4mqnqey2dqx)
+[Day2 Recorded Video](https://drive.google.com/file/d/1zkOUhxAAOctDlkdk7H2_VYfF8qVUhK63/view?usp=sharing)
