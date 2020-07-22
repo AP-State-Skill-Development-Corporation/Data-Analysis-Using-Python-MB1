@@ -32,3 +32,18 @@ This repository consists of all the files discussed during Data Analysis using P
 3. Reshaping and accessing arrays.
 
 [Day2 Recorded Video](https://drive.google.com/file/d/1zkOUhxAAOctDlkdk7H2_VYfF8qVUhK63/view?usp=sharing)
+
+
+*******************
+
+## Day3 22-July-2020
+
+### Discussed Concepts
+
+#### Need to Update
+
+
+[Day3_Recorded_Video](https://transcripts.gotomeeting.com/#/s/3594690fc2118132ad2fbaec8e9dbc4d64d7b4a765f5979d7d1e67408c016e1e
+
+
+
