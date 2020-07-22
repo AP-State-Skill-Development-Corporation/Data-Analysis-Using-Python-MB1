@@ -43,7 +43,7 @@ This repository consists of all the files discussed during Data Analysis using P
 #### Need to Update
 
 
-[Day3_Recorded_Video](https://transcripts.gotomeeting.com/#/s/3594690fc2118132ad2fbaec8e9dbc4d64d7b4a765f5979d7d1e67408c016e1e
+[Day3_Recorded_Video](https://transcripts.gotomeeting.com/#/s/3594690fc2118132ad2fbaec8e9dbc4d64d7b4a765f5979d7d1e67408c016e1e)
 
 
 
