@@ -31,6 +31,8 @@ This repository consists of all the files discussed during Data Analysis using P
 2. Applying Math and Stastical methods to arrays
 3. Reshaping and accessing arrays.
 
+**Day2 Content Notebook →** [[.pdf format]](Day02_21July2020/Day02_21July2020.pdf)
+
 [Day2 Recorded Video](https://drive.google.com/file/d/1zkOUhxAAOctDlkdk7H2_VYfF8qVUhK63/view?usp=sharing)
 
 
@@ -47,8 +49,24 @@ This repository consists of all the files discussed during Data Analysis using P
 5. viewing of the DataFrame
 6. Working with external dataframes.
 
+**Day3 Content Notebook →** [[.pdf format]](Day03_22July2020/Day03_22July2020.pdf)
 
 [Day3_Recorded_Video](https://drive.google.com/file/d/17sYymRkOMgRgv4K2AzWsm3IZFRnzJNpV/view?usp=sharing)
 
+**********************
+### Day4 23-July-2020
+### Discussed Concepts
+1. Data Preprocessing Using Scikit-Learn
+- Introduction
+- Standardizing Data
+- Data Range
+- Robust Scaling
+- Normalizing Data
+- Data Imputation
+2. Open Source Datasets
 
+Updated the links in [resources.md](resources.md)
 
+**Day4 Content Notebook →** [[.ipynb format]](Day04_23July2020/Day04_23July2020.ipynb), [[.pdf format]](Day04_23July2020/Day04_23July2020.pdf)
+
+[Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/c12228fb635ab151baa3281d7e6d9dabcd8e9992af3d3de16b09993ab1ffa58a)
