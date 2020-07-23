@@ -40,10 +40,15 @@ This repository consists of all the files discussed during Data Analysis using P
 
 ### Discussed Concepts
 
-#### Need to Update
+1. Introduction of Pandas
+2. Data set Creation using Series and DataFrame
+3. Accessing of Dataframe elements
+4. Applying stastical and Math methods on dataframe
+5. viewing of the DataFrame
+6. Working with external dataframes.
 
 
-[Day3_Recorded_Video](https://transcripts.gotomeeting.com/#/s/3594690fc2118132ad2fbaec8e9dbc4d64d7b4a765f5979d7d1e67408c016e1e)
+[Day3_Recorded_Video](https://drive.google.com/file/d/17sYymRkOMgRgv4K2AzWsm3IZFRnzJNpV/view?usp=sharing)
 
 
 
