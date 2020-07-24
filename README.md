@@ -56,17 +56,38 @@ This repository consists of all the files discussed during Data Analysis using P
 **********************
 ### Day4 23-July-2020
 ### Discussed Concepts
-1. Data Preprocessing Using Scikit-Learn
+Data Preprocessing Using Scikit-Learn
 - Introduction
 - Standardizing Data
 - Data Range
 - Robust Scaling
 - Normalizing Data
 - Data Imputation
-2. Open Source Datasets
+
+Open Source Datasets
 
 Updated the links in [resources.md](resources.md)
 
-**Day4 Content Notebook →** [[.ipynb format]](Day04_23July2020/Day04_23July2020.ipynb), [[.pdf format]](Day04_23July2020/Day04_23July2020.pdf)
+**Day4 Content Notebook →** [[.ipynb format]](Day04_23July2020/Day04_23July2020.ipynb), [[.pdf format]](Day04_23July2020/Day04_23July2020.pdf),
+[[Slides]](Day04_23July2020/Day04_23July2020_Slides.pdf)
 
 [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/c12228fb635ab151baa3281d7e6d9dabcd8e9992af3d3de16b09993ab1ffa58a)
+*********
+
+### Day5 24-July-2020
+### Discussed Concepts
+Data Visualization using matplotlib
+- Introduction
+- Line Plot
+- Scatter Plot
+- Bar Graph
+- Histogram
+- Pie Chart
+- Box Plot
+
+Updated the links in [resources.md](resources.md)
+
+**Day5 Content Notebook →** [[.ipynb format]](Day05_24July2020/Day05_24July2020.ipynb), [[.pdf format]](Day05_24July2020/Day05_24July2020.pdf),
+[[Slides]](Day05_24July2020/Day05_24July2020_Slides.pdf)
+
+[Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/53908007aff77c59cdde33b42266f00d270e2f4481cb97564910b54e78245292)
